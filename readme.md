@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"> Hola!!!👋 Como vai?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My Meu nome é Tatiana Mayumi Tamura, do curso de Sistema de Informação da Universidade Federal de Uberlândia - campus Monte Carmelo</p>
 
 ###
 
