@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My Meu nome é Tatiana Mayumi Tamura, do curso de Sistema de Informação da Universidade Federal de Uberlândia - campus Monte Carmelo</p>
+<p align="left"> Meu nome é Tatiana Mayumi Tamura, do curso de Sistema de Informação da Universidade Federal de Uberlândia - campus Monte Carmelo</p>
 
 ###
 
